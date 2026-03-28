@@ -77,7 +77,14 @@
   🎵 单曲循环：<em>“No Broke Boys”</em> 🐱🌈<br>
   📖 爱读：悬疑和搞笑的小说
 </p>
+## 🧠 Tasks Used for Geek
 
+| 状态 | 任务 | 进度 |
+|------|------|------|
+| ✅ | Linux 基础命令 | 100% |
+| 🟡 | Git 高级操作 | 60% |
+| 🔄 | Docker 容器化 | 进行中 |
+| ⏳ | Kubernetes 入门 | 待开始 |
 <!-- 社交链接 / 支持 -->
 <h2 align="center">📮 找到我</h2>
 <p align="center">
@@ -90,5 +97,4 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=F58FB0&height=100&section=footer" width="100%">
 </p>
-### Tasks
-use for geek
+
